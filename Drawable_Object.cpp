@@ -8,11 +8,11 @@ class Drawable_Object {
 
 void Drawable_Object::display()
 {
-	cout <<"display() of Drawable_Object called New feature text added\n";
+	cout <<"display() of Drawable_Object called New feature text added for rudolph\n";
 }
 void Drawable_Object::print()
 {
-	cout <<"print() of Drawable_Object called\n";
+	cout <<"print() of Drawable_Object called for peter, thanks\n";
 }
 class Circle: public Drawable_Object
 {
