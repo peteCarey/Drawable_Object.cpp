@@ -8,7 +8,7 @@ class Drawable_Object {
 
 void Drawable_Object::display()
 {
-	cout <<"display() of Drawable_Object called HERE!!!\n";
+	cout <<"display() of Drawable_Object called\n";
 }
 void Drawable_Object::print()
 {
