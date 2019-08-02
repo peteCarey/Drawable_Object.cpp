@@ -12,7 +12,7 @@ void Drawable_Object::display()
 }
 void Drawable_Object::print()
 {
-	cout <<"print() of Drawable_Object called for peter\n";
+	cout <<"print() of Drawable_Object called for peter, thanks\n";
 }
 class Circle: public Drawable_Object
 {
