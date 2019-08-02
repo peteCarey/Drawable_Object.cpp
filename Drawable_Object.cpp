@@ -8,7 +8,7 @@ class Drawable_Object {
 
 void Drawable_Object::display()
 {
-	cout <<"display() of Drawable_Object called\n";
+	cout <<"display() of Drawable_Object called New feature text added\n";
 }
 void Drawable_Object::print()
 {
